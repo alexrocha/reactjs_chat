@@ -1,0 +1,189 @@
+{
+  "profile": {
+    "name": "typicode"
+  },
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Louis Litt",
+      "url_image": "http://emilcarlsson.se/assets/louislitt.png",
+      "preview": "You just got LITT up, Mike."
+    },
+    {
+      "id": 2,
+      "name": "Harvey Specter",
+      "url_image": "http://emilcarlsson.se/assets/harveyspecter.png",
+      "preview": "Wrong. You take the gun, or you pull out a bigger one. Or, you call their bluff. Or, you do any one of a hundred and forty six other things."
+    },
+    {
+      "id": 3,
+      "name": "Rachel Zane",
+      "url_image": "http://emilcarlsson.se/assets/rachelzane.png",
+      "preview": "I was thinking that we could have chicken tonight, sounds good?"
+    },
+    {
+      "id": 4,
+      "name": "Donna Paulsen",
+      "url_image": "http://emilcarlsson.se/assets/donnapaulsen.png",
+      "preview": "Mike, I know everything! I'm Donna.."
+    },
+    {
+      "id": 5,
+      "name": "Jessica Pearson",
+      "url_image": "http://emilcarlsson.se/assets/jessicapearson.png",
+      "preview": "Have you finished the draft on the Hinsenburg deal?"
+    },
+    {
+      "id": 6,
+      "name": "Harold Gunderson",
+      "url_image": "http://emilcarlsson.se/assets/haroldgunderson.png",
+      "preview": "Thanks Mike! :)"
+    },
+    {
+      "id": 7,
+      "name": "Daniel Hardman",
+      "url_image": "http://emilcarlsson.se/assets/danielhardman.png",
+      "preview": "We'll meet again, Mike. Tell Jessica I said 'Hi'."
+    },
+    {
+      "id": 8,
+      "name": "Katrina Bennett",
+      "url_image": "http://emilcarlsson.se/assets/katrinabennett.png",
+      "preview": "I've sent you the files for the Garrett trial."
+    },
+    {
+      "id": 9,
+      "name": "Charles Forstman",
+      "url_image": "http://emilcarlsson.se/assets/charlesforstman.png",
+      "preview": "Mike, this isn't over."
+    },
+    {
+      "id": 10,
+      "name": "Jonathan Sidwell",
+      "url_image": "http://emilcarlsson.se/assets/jonathansidwell.png",
+      "preview": "You: That's bullshit. This deal is solid."
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "sender_id": 11,
+      "receiver_id": 2,
+      "way": "sent",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "message": "e ai"
+    },
+    {
+      "id": 2,
+      "sender_id": 11,
+      "receiver_id": 2,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/harveyspecter.png",
+      "message": "fala mano tudo bem?'"
+    },
+    {
+      "id": 3,
+      "sender_id": 11,
+      "receiver_id": 2,
+      "way": "sent",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "message": "tudo e vc'"
+    },
+    {
+      "id": 4,
+      "sender_id": 11,
+      "receiver_id": 2,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/harveyspecter.png",
+      "message": "que manda de bom?'"
+    },
+    {
+      "id": 5,
+      "sender_id": 11,
+      "receiver_id": 2,
+      "way": "sent",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "message": "nada e vc'"
+    },
+    {
+      "id": 6,
+      "sender_id": 11,
+      "receiver_id": 2,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/harveyspecter.png",
+      "message": "comigo de boas tambem"
+    },
+    {
+      "sender_id": 11,
+      "message": "oi",
+      "receiver_id": 1,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "id": 7
+    },
+    {
+      "sender_id": 11,
+      "message": "teste ",
+      "receiver_id": 1,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "id": 8
+    },
+    {
+      "sender_id": 11,
+      "message": "teste",
+      "receiver_id": 6,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "id": 9
+    },
+    {
+      "sender_id": 11,
+      "message": "oi Rachel",
+      "receiver_id": 3,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "id": 10
+    },
+    {
+      "sender_id": 11,
+      "message": "mesagem de teste 123",
+      "receiver_id": 3,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "id": 11
+    },
+    {
+      "sender_id": 11,
+      "message": "oi",
+      "receiver_id": 2,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "id": 12
+    },
+    {
+      "sender_id": 11,
+      "message": "oi",
+      "receiver_id": 2,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "id": 13
+    },
+    {
+      "sender_id": 11,
+      "message": "oi",
+      "receiver_id": 2,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "id": 14
+    },
+    {
+      "sender_id": 11,
+      "message": "eae amigo",
+      "receiver_id": 2,
+      "way": "replies",
+      "url": "http://emilcarlsson.se/assets/mikeross.png",
+      "id": 15
+    }
+  ]
+}

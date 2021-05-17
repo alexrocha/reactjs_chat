@@ -1,0 +1,20 @@
+version: '3.7'
+
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+        - '3000:3000'
+    command: "npm run dev"
+
+  api:
+    image: vimagick/json-server
+    command: -H 0.0.0.0 -p 3001 -w db.json
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./data:/data
+    restart: always
+
